@@ -1,0 +1,3 @@
+[2024-02-04 18:22:40,139] 26 root - INFO - OPENAI_API_KEY loaded: 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
+[2024-02-04 18:22:40,153] 33 root - INFO - ./Response.json loaded
+[2024-02-04 18:22:40,153] 38 root - INFO - RESPONSE_JSON loaded: {'1': {'no': '1', 'mcq': 'multiple choice questions', 'options': {'a': 'choice here', 'b': 'choice here', 'c': 'choice here', 'd': 'choice here'}, 'correct': 'correct answer'}, '2': {'no': '2', 'mcq': 'multiple choice questions', 'options': {'a': 'choice here', 'b': 'choice here', 'c': 'choice here', 'd': 'choice here'}, 'correct': 'correct answer'}, '3': {'no': '3', 'mcq': 'multiple choice questions', 'options': {'a': 'choice here', 'b': 'choice here', 'c': 'choice here', 'd': 'choice here'}, 'correct': 'correct answer'}}
